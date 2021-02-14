@@ -2,4 +2,8 @@
 
 Dashboard for controling phisical Proxmox appliance trough REST api.
 
-![Alt text](/InProgress.png?raw=true "Optional Title")
+![DashSS](/InProgress.png?raw=true)
+
+## TODO
+Usb Controll
+Add styling
