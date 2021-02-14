@@ -6,4 +6,5 @@ Dashboard for controling phisical Proxmox appliance trough REST api.
 
 ## TODO
 Usb Controll \
+Widgets (Calendar/Time, Weather)
 Add styling
