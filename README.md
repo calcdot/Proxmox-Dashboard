@@ -5,5 +5,5 @@ Dashboard for controling phisical Proxmox appliance trough REST api.
 ![DashSS](/InProgress.png?raw=true)
 
 ## TODO
-Usb Controll
+Usb Controll \
 Add styling
